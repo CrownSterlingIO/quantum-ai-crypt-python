@@ -1,3 +1,4 @@
+# Contributions from @sterling_crown and @CrownParody
 import time
 import random
 import hashlib
